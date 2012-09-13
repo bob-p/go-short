@@ -10,7 +10,11 @@ GET /url-key
 Deploy to heroku
 ----------------
 
-  git clone git@github.com:bob-p/go-short.git 
+This assumes you have go installed/setup aleady.
+
+  git clone git@github.com:bob-p/go-short.git
+
+  cd go-short
 
   go install
   
