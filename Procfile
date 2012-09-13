@@ -1,1 +1,1 @@
-web: link-shortner
+web: go-short
