@@ -22,6 +22,6 @@ This assumes you have go installed/setup aleady.
 
   git commit -a -m 'Added binary'
 
-  heroku create -s cedar --buildpack git@github.com:kr/heroku-buildpack-go.git
+  heroku create -s cedar --buildpack git://github.com/kr/heroku-buildpack-go.git
 
   git push heroku master
